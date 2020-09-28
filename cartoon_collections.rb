@@ -16,6 +16,6 @@ def list_dwarves(array)
   
   array.each do |dwarves|
   puts dwarves.to_s 
-  
+end 
   
 end
