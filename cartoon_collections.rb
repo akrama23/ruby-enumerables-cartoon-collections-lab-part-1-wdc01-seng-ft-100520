@@ -12,6 +12,6 @@ end
 def list_dwarves(array)
  
   array.each_index do |dwarf, index|
-  puts position. dwarf
+  puts "1.#{dwarf}"
 end 
 end
