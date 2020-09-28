@@ -11,7 +11,7 @@ end
 
 def list_dwarves(array)
  
-  array.each do |dwarves_index|
+  array.each do |dwarves|
   puts dwarves
 end 
   
